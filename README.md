@@ -6,8 +6,8 @@
 
 *iskosok*
 
-*Item 1
-*Item 1
+* Item 1
+* Item 1
 
 ```javascript
   let str = "lolkekcheburek";
