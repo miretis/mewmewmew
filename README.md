@@ -1,13 +1,13 @@
 # mewmewmew
 ## lollol
-###### lel
+#### lel
+##### What to change in README:
+###### * bisilly
+###### * add *car*
 
 **zirni.txt**
 
 *iskosok.txt*
-
-* bisilly
-* add *car*
 
 ```javascript
   let lol = "lolkekcheburek";
