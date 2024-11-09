@@ -1,10 +1,12 @@
 # lol
 ## loll
 ###### lollo
+
 **zirno**
+
 *iskosok*
-*item 1
-  *item 2.a
+
+*Item 1
 
 ```javascript
   let str = "lolkekcheburek";
