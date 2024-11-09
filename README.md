@@ -1,9 +1,9 @@
 # mewmewmew
 ## lollol
 #### lel
-##### What to change in README:
-###### * bisilly
-###### * add *car*
+What to change in README:
+* bisilly
+* add *car*
 
 **zirni.txt**
 
