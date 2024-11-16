@@ -16,7 +16,8 @@ img{
 .black{
     background: black;
     color: white;
-    margin: 30px;
+    border-radius: 0px;
+    border: 30px solid black;
 }
 ul{
     background: black;
