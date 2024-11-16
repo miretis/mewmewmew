@@ -9,12 +9,12 @@ body{
     background: #004631;
 }
 img{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
 div{
     background: black;
     color: white;
     padding: 5px;
-    list-style: disc;
+    list-style: decimal;
 }
