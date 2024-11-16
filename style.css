@@ -2,12 +2,18 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 img{
-    width: auto;
-    height: 200px;
+    width: 100px;
+    height: 100px;
 }
 div{
     background: black;
     color: white;
     padding: 5px;
+    list-style: decimal;
 }
